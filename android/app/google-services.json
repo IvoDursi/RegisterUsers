@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720823893199",
+    "project_id": "cursoffirebasevs",
+    "storage_bucket": "cursoffirebasevs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720823893199:android:3c68883af9371b9f674bba",
+        "android_client_info": {
+          "package_name": "com.example.curso_flutterfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720823893199-87bgt2078q1sb8lod75mhdkthhlrebs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMsasPhNvam7QRFa2Q_JfDi02LOz9ZS84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720823893199-87bgt2078q1sb8lod75mhdkthhlrebs1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
